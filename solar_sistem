@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p>This GPT uses public astronomical data from the le-systeme-solaire.net API.</p>
+
+  <h2>Data Collection</h2>
+  <p>No personal data is collected, stored, or processed by this GPT.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>When responding to user requests, this GPT sends technical query parameters
+  to <strong>api.le-systeme-solaire.net</strong> to retrieve information about
+  the Solar System.</p>
+
+  <h2>Data Storage</h2>
+  <p>No user data is stored.</p>
+
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+</body>
+</html>
